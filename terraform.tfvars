@@ -1,0 +1,2 @@
+project     = "anzai"
+environment = "dev"
